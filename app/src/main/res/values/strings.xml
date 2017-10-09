@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Leila Life</string>
+    <string name="question">Question</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+
+    <array name="all_questions">
+        <item>When is my birthday?;10/12/1996;12/10/1995;*12/10/1996;12/11/1996</item>
+        <item>Where did I born?;Barcelona;*Badalona;Pineda de Mar;Morroco</item>
+        <item>What do I hate?;*CocaCola;Fanta;Chocolate;Sweets</item>
+        <item>Chose my town?;Tanger;*Chefchaouen;Tetuan;Casablanca</item>
+        <item>How many lenguages I speak?;*4;2;3;5</item>
+        <item>Wick color I prefer?;*Black;Orange;Green;Red</item>
+    </array>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+</resources>
